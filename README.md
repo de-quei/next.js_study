@@ -1,2 +1,3 @@
 # next.js_study
-넥스트를 공부합니다!
+
+file system으로 auto-routing 되는건 ㄹㅇ 신이다;;
