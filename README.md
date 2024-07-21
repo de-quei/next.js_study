@@ -16,3 +16,8 @@ Client는 JavaScript를 로드하고, 그 후 JavaScript가 UI를 빌드함
 ### Hydration
 > SSR을 통해 만들어진 Interactive하지 않은 HTML을 Client 측 JavaScript를 사용하여<br>
 Interative한 React Component로 변환하는 과정을 말함.
+
+---
+
+### (folder name)
+> 폴더 이름을 괄호로 감싸면 url을 생성하지 않음, 괄호 안에 들어가는 이름은 내 마음대로 지어도 됨!
