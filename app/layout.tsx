@@ -1,5 +1,16 @@
 import Navigation from "../components/navigation"
 
+import { Metadata } from "next"
+
+export const metadata :Metadata = {
+  // metadata도 객체가 될 수 있음
+  title: {
+      template: "%s | Next movies",
+      default: "Next movies"
+  },
+  description: 'The best movies on the best framework',
+}
+
 export default function RootLayout({
   children,
 }: {
